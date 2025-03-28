@@ -1,0 +1,15 @@
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.AssemblyInfoInputs.cache
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.AssemblyInfo.cs
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.csproj.CoreCompileInputs.cache
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.sourcelink.json
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/sample1
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/sample1.deps.json
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/sample1.runtimeconfig.json
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/sample1.dll
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/sample1.pdb
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.dll
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/refint/sample1.dll
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.pdb
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.genruntimeconfig.cache
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/ref/sample1.dll
