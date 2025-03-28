@@ -1,3 +1,5 @@
+namespace sample1;
+
 public class Personne
 {
     public string Nom { get; set; }

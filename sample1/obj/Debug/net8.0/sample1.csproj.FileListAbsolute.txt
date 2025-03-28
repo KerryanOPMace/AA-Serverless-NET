@@ -13,3 +13,7 @@
 /home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.pdb
 /home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.genruntimeconfig.cache
 /home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/ref/sample1.dll
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.csproj.AssemblyReference.cache
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/obj/Debug/net8.0/sample1.csproj.CopyComplete
+/home/takima/cs/dotnet/AA-Serverless-NET/sample1/bin/Debug/net8.0/SixLabors.ImageSharp.dll
